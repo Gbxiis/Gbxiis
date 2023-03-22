@@ -19,7 +19,7 @@ Hi there 😆
    <img align="center" alt="GB-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="GB-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <!--    <img align="center" alt="GB-Php" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> -->
-   <img align="center" alt="GB-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<!--    <img align="center" alt="GB-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -->
 <!--    <img align="center" alt="GB-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
    <img align="center" alt="GB-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
    <img align="center" alt="GB-MongoDb" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"> -->
