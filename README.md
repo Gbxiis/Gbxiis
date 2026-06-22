@@ -1,13 +1,13 @@
 ### 👨🏻‍💻 `[gbxiis@system ~]$ ./whoami.sh`
 
-> **System Status:** Online.
-> **Role:** Full-Stack Developer in Training.
-> **Mission:** Building the future with code.
+> **System Status:** Online & Executing.
+> **Role:** Full-Stack Developer.
+> **Mission:** Writing clean code & building scalable systems.
 
 ```json
 {
   "name": "Gbxiis",
-  "learning": ["JavaScript", "React", "Node.js", "Python"],
+  "core_tech": ["JavaScript", "React", "Node.js", "Python"],
   "focus": "Full-stack Development",
-  "status": "Coding and drinking coffee ☕"
+  "status": "Shipping to production 🚀"
 }
